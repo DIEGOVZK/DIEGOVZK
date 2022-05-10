@@ -23,7 +23,7 @@
   <img style="margin:1rem 0.5rem; height: 47%; float: left;" src="https://img.shields.io/badge/ResearchGate-%20-04ccbc?style=for-the-badge&logo=researchgate">
   </a>
 
-  <a href="ttps://www.linkedin.com/in/diego-anestor-coutinho/">
+  <a href="https://www.linkedin.com/in/diego-anestor-coutinho">
   <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
   </a>
 
