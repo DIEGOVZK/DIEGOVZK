@@ -5,18 +5,31 @@
 
 ## About me:
 
-<p style="margin:0.5rem; width: 100%; float: left;; font-size: 100%" > 
-- 🔭 I’m currently working on <a href="inatel.br"> Inatel </a> <br>
-- 🌱 I’m currently learning: Java | TypeScript <br>
-- 🤔 I’m looking for help with getting my first job <br>
-- 💬 Ask me about anything science <br>
-- 📫 Contact: <a href="https://www.linkedin.com/in/diego-anestor-coutinho/"> LinkedIn </a> |
-<a href="https://www.researchgate.net/profile/Diego-Coutinho-4"> ResearchGate </a> |
-diego.anestor@gec.inatel.br </a> <br>
-- ⚡ Fun fact: My first line of code was in C <br>
+<p style="margin:0.5rem; width: 100%; font-size: 100%" > 
+  - 🔭 I’m currently working on <a href="inatel.br"> Inatel </a> <br>
+  - 🌱 I’m currently learning: Java | TypeScript <br>
+  - 🤔 I’m looking for help with getting my first job <br>
+  - 💬 Ask me about anything science <br>
+  - 📫 Contact: diego.anestor@gec.inatel.br  <br>
+  - ⚡ Fun fact: My first line of code was in C <br>
 </p>
 
-### ------------------------------------------------------------------
+
+### Contact:
+
+<p style="margin:0.5rem; width: 100%; font-size: 100%" >
+
+  <a href="https://www.researchgate.net/profile/Diego-Coutinho-4">
+  <img style="margin:1rem 0.5rem; height: 47%; float: left;" src="https://img.shields.io/badge/ResearchGate-%20-04ccbc?style=for-the-badge&logo=researchgate">
+  </a>
+
+  <a href="ttps://www.linkedin.com/in/diego-anestor-coutinho/">
+  <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+</p>
+
+
 
 ## Projects I'm currently working on:
 
