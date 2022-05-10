@@ -1,6 +1,6 @@
 
 <p float="left">
-  <img style="background-color:#FFFFFF" src="" width="49%">
+  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/DIEGOVZK/blob/main/backGimage.jpg" width="100%">
 </p>
 
 ## About me:
