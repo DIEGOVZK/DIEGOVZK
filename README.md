@@ -40,8 +40,8 @@
   <img style="margin:1rem 0.5rem; width: 47%; float: left; vertical-align:top;" src="https://github-readme-stats.vercel.app/api/pin/?username=DIEGOVZK&repo=MKSENSE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 
-  <a href="https://github.com/DIEGOVZK/binary-tree-visualizer">
-  <img style="margin:1rem 0.5rem; width: 47%; vertical-align:top;" src="https://github-readme-stats.vercel.app/api/pin/?username=DIEGOVZK&repo=binary-tree-visualizer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <a href="https://github.com/DIEGOVZK/Cnkt2">
+  <img style="margin:1rem 0.5rem; width: 47%; vertical-align:top;" src="https://github-readme-stats.vercel.app/api/pin/?username=DIEGOVZK&repo=Cnkt2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
   
   <a href="https://github.com/DIEGOVZK/TinySat">
