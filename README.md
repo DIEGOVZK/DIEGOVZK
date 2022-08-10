@@ -6,9 +6,9 @@
 ## About me:
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" > 
-  - 🔭 I’m currently working on <a href="inatel.br"> Inatel </a> <br>
+  - 🔭 I’m currently working at <a href="inatel.br"> Inatel </a> <br>
   - 🌱 I’m currently learning: Java | TypeScript <br>
-  - 🤔 I’m looking for help with getting my first job <br>
+  - 🤔 I’m looking for help with learning embedded C <br>
   - 💬 Ask me about anything science <br>
   - 📫 Contact: diego.anestor@gec.inatel.br  <br>
   - ⚡ Fun fact: My first line of code was in C <br>
