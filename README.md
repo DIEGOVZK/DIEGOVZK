@@ -1,46 +1,61 @@
+<div align="center">
+    
+# Hi there! I'm Diego Anestor Coutinho 🛰️
 
-<p float="left">
-  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/DIEGOVZK/blob/main/backGimage.jpg" width="100%">
-</p>
+### Multidisciplinary R&D Professional | CubeSats & Embedded Systems | Full-Stack Engineer
+    
+</div>
 
-## About me:
+---
 
-<p style="margin:0.5rem; width: 100%; font-size: 100%" > 
-  - 🔭 I’m currently working at <a href="inatel.br"> Inatel </a> <br>
-  - 🌱 I’m currently learning: Java | TypeScript <br>
-  - 🤔 I’m looking for help with learning embedded C <br>
-  - 💬 Ask me about anything science <br>
-  - 📫 Contact: diego.anestor@gec.inatel.br  <br>
-  - ⚡ Fun fact: My first line of code was in C <br>
-</p>
+### 💡 Expertise
 
+My professional journey is centered on **multidisciplinary Research & Development**, spanning the entire project lifecycle from hardware design to full-stack software deployment. I specialize in integrating complex hardware (like small satellites and IoT devices) with robust, scalable software solutions.
 
-### Contact:
+* 🛰️ **Core Focus:** CubeSat Technology, Embedded Systems, and IoT.
+* 💻 **Problem Solving:** Leading projects using **Agile** (SCRUM/Kanban), team mentoring, and fostering international collaboration.
+* 🧠 **Current Focus:** Advancing novel power generation for LEO CubeSats and building performant **SvelteKit** applications.
+* 💬 Ask me about **RF design**, **electrodynamic tethers**, or **secure MQTT backend integration**!
 
-<p style="margin:0.5rem; width: 100%; font-size: 100%" >
+---
 
-  <a href="https://www.researchgate.net/profile/Diego-Coutinho-4">
-  <img style="margin:1rem 0.5rem; height: 47%; float: left;" src="https://img.shields.io/badge/ResearchGate-%20-04ccbc?style=for-the-badge&logo=researchgate">
-  </a>
+### 🛠️ Technical Skill Stack
 
-  <a href="https://www.linkedin.com/in/diego-anestor-coutinho">
-  <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
-  </a>
+I leverage a broad set of tools and technologies to execute R&D projects end-to-end.
 
-</p>
+#### Hardware, Embedded & IoT
 
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Hardware Design** | Full lifecycle hardware development (schematic to PCB). |
+| **RF & Simulation** | **RF Circuit Design**, Electromagnetic Simulation (OpenEMS), KiCad, Altium, NGSpice, ParaView. |
+| **Embedded Systems** | C/C++ (Espressif, Atmel, STM), Firmware Development, ADCS. |
+| **IoT Integration** | Secure Backend Integration via **MQTT**, REST APIs, and WebSockets. |
 
+#### Full-Stack Software & DevOps
 
-## Projects I'm currently working on:
-[Inatel Cubesat Design Team](https://inatel.br/csilab/teams/cubesat-design-team)
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Backend** | **Node.js**, **TypeScript**, Express, Design Patterns. |
+| **Frontend** | **SvelteKit**, Modern Web Development. |
+| **Databases** | SQL and NoSQL (**MongoDB**, Neo4J). |
+| **DevOps & QA** | **Docker** (Virtualization), CI/CD (**GitHub Actions**), Testing (Cypress, Mocha, Postman). |
 
-## Github Stats:
+#### Data & Modeling
 
-<p float="left">
+* **Data Analysis:** Python, MATLAB.
+* **3D Modeling & Simulation:** Blender, FreeCAD, CalculiX (3D modeling, rendering, and structural simulation).
+* **Specialized:** Machine Learning, ADCS (Attitude Determination and Control Systems).
 
-  <img style="margin:0.5rem; width: 65%; float: left;" src="https://github-readme-stats.vercel.app/api?username=DIEGOVZK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DIEGOVZK's GitHub Stats" />
+---
 
-  <img style="margin:0.5rem; width: 29%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOVZK&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+### 📊 Professional Profiles & Contact
 
+Connect with me to discuss R&D, collaboration, or small satellite technology.
 
-</p>
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [https://www.linkedin.com/in/diego-anestor-coutinho/?locale=en_US](https://www.linkedin.com/in/diego-anestor-coutinho/?locale=en_US) |
+| **ResearchGate** | [https://www.researchgate.net/profile/Diego-Coutinho-4](https://www.researchgate.net/profile/Diego-Coutinho-4) |
+
+---
